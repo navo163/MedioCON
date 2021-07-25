@@ -1,6 +1,6 @@
 # MEDIOCON
 
-A Project by Akshat Amrit and Navonil Das
+A Project by Navonil Das and Akshat Amrit
 
 
 ## APK File
