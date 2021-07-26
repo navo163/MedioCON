@@ -4,7 +4,7 @@ A Project by Navonil Das and Akshat Amrit
 
 
 ## APK File
-- [Download APK File from here](Medi Consult.apk)
+- [Download APK File from here](https://github.com/navo163/MedioCON/blob/main/Medi%20Consult.apk)
 
 ## Abstract
 This project is based on the Mobile Application for Online Consultancy for people all around the world. This App basically allows us to Consult ourselves while sitting at our Home.
